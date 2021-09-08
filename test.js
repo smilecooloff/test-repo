@@ -1,1 +1,1 @@
-alert('haha')
+console.log('asd')
